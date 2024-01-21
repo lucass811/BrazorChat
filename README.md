@@ -43,5 +43,5 @@ dotnet run
 
 Bom teste!
 <div>
-    <img src="./public/img/Agenda.PNG" >
+    <img src="./img/chat.PNG" >
 </div>
